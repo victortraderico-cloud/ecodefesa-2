@@ -1,0 +1,11 @@
+COMO USAR NO EMERGENT
+
+1. Envie o ZIP inteiro deste projeto.
+2. Peca para carregar o projeto Vite/React existente.
+3. Evite pedir para refazer o site. Use comandos curtos para ajustes pontuais.
+
+COMO HOSPEDAR NA VERCEL
+
+Framework preset: Vite
+Build command: npm run build
+Output directory: dist
